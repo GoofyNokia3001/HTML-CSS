@@ -13,3 +13,4 @@ This is projects that i created myself only using picture as example for html pa
 
 
 ### Gallery of projects
+<img src="gallery/gallery1.png">
